@@ -17,4 +17,11 @@
 
 .menu ul li {
   margin: 0 1.25rem;
+  color: #b2b1b1;
+  cursor: none;
+}
+
+.logo img{  
+  width: 2rem;
+  margin-top: -0.5rem;
 }
