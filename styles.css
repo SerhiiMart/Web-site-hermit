@@ -65,5 +65,25 @@ body {
 }
 
 .app-text {
-  
+  width: 50%;
+  float: left;
 }
+
+.app-text h1 {
+ font-size: 2.625rem;
+ width: 40rem;
+ position: relative;
+ margin-left: 2.5rem;
+}
+
+.app-text p {
+  width: 40.625rem;
+  font-size: .9rem;
+  margin: 1.875rem 0 1.875rem 2.5rem;
+  line-height: 1.5625rem;
+  color: #919191;
+ }
+
+ .app-img {
+   
+ }
