@@ -26,3 +26,26 @@
   margin-top: -0.5rem;
   margin-right: 2rem;
 }
+
+.active {
+  color: #28cbe7!important;
+}
+
+.signup-btn {
+  top: 2.5rem;
+  right: 5rem;
+  position: absolute;
+  text-decoration: none;
+  color: #fff;
+  border: 3px solid transparent;
+  border-radius: 1.25rem;
+  background-image: 
+  linear-gradient(#42455a, #42455a), 
+  radial-gradient(circle at top left,  #fd00da, #19d7f8);
+  background-origin: border-box;
+  background-clip: content-box, border-box;
+}
+
+.signup-btn span {
+  
+} 
