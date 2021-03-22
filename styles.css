@@ -18,10 +18,11 @@
 .menu ul li {
   margin: 0 1.25rem;
   color: #b2b1b1;
-  cursor: none;
+  cursor: pointer;
 }
 
 .logo img{  
-  width: 2rem;
+  width: 1.875rem;
   margin-top: -0.5rem;
+  margin-right: 2rem;
 }
