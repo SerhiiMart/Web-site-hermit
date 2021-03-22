@@ -4,13 +4,16 @@
 }
 
 body {
-  background-color: #42455a;
+  background-image: 
+  radial-gradient(closest-side, #17014A, #480674);
+
+  /* radial-gradient(ellipse at top, #17014A, #480674),
+  radial-gradient(ellipse at bottom, #480674, #17014A); */
 }
 
 .container {
   width: 100%;
   height: 100%;
-  background-color: #42455a;
 }
 
 .menu ul {
@@ -85,5 +88,12 @@ body {
  }
 
  .app-img {
-   
+   width: 50%;
+   float: right;
  }
+
+ .app-img img {
+  width: 100%;
+  margin-top: -1.25rem;
+  padding-left: 3.125rem;
+}
