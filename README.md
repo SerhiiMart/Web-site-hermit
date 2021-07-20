@@ -1,3 +1,3 @@
 # Web-site-hermit
-some simple web-site. I messed up with the background. 
-Need to fix it.
+Some simple web-site. I messed up with the background. 
+Need to fix it. Soon will try it.
